@@ -1,4 +1,4 @@
-This project is to build a classifier that will predict whether a person is a Democrat or a
+This project is to use Naive Bayes and Logistic Regression model to predict whether a person is a Democrat or a
 Republican depending on their Twitter posts. 
 
 project1.py contains 4 models: 
