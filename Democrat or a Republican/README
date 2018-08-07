@@ -1,0 +1,24 @@
+This project is to build a classifier that will predict whether a person is a Democrat or a
+Republican depending on their Twitter posts. 
+
+project1.py contains 4 models: 
+Multinomial Naive Bayes Unigram, Logistic Regression Bigram,  
+Multinomial Naive Bayes Trigram, and Best train model. 
+
+It prints out accuracy, top 20 features, and confusion matrix for each model. 
+To use the test file to run the code, please replace 'dev_newline.txt' with test file name in line 29 and 30.
+
+classify.py file takes the train and test files as command line arguments.
+Type ‘python classify.py train_newline.txt test_newline.txt (or whatever the test file name is)’ to run. 
+
+It saves best trained model to model.pkl, post-processed vectorized test data to test.pkl,
+and CountVectorizer to features.pkl. (Will load features.pkl to get top 20 features in analyze.py file)
+
+analyze.py file takes the best trained model and verctorized test data as command line arguments.
+
+Type 'python analyze.py model.pkl test' to run. It outputs top 20 features, confusion matrix,
+and confusion matrix plot for the best trained model. 
+
+
+
+			 
