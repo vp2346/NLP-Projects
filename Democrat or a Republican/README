@@ -1,4 +1,5 @@
-In this project, I use Sci-kit Learn Naive Bayes and Logistic Regression model to predict whether a person is a Democrat or a Republican depending on their Twitter posts. 
+In this project, I use Sci-kit Learn Naive Bayes and Logistic Regression model to predict whether a person is 
+a Democrat or a Republican depending on their Twitter posts. 
 
 train_newline.txt is training data, which contains 40k tweets. 
 dev_newline.txt is testing data, which contains 5k tweets. 
