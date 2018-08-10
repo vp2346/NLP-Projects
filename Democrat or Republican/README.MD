@@ -1,3 +1,5 @@
+## Naive Bayes and Logistic Regression for classification
+
 In this project, I use Sci-kit Learn Naive Bayes and Logistic Regression model to predict whether a person is 
 a Democrat or a Republican depending on their Twitter posts. 
 
