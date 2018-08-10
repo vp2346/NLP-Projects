@@ -1,4 +1,4 @@
-## Keras LSTM encoder-decoder with and without attention networks for Summerization
+## Keras LSTM encoder-decoder with and without attention networks for Summarization
 
 In this project,  we’ll be diving deeper into more advanced architectures of neural networks,  
 which have helped in the field of summarization. There are two types of summarization: extractive and abstractive.  
