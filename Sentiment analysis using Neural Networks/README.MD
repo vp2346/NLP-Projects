@@ -1,6 +1,5 @@
-In this project we will perform sentiment analysis using a few Neural Network based architectures. 
+## Sentiment Analysis for IMDB movie reviews using Keras LSTM and CNN model with pretrained word embedding
 
-For this problem we use the IMDB Large Movie Review Dataset. 
 The dataset contains 25,000 highly polar movie reviews for both train and test dataset, each with 12,500 positive 
 (greater than equal to 7/10 rating) and 12,500 negative reviews(less than equal to 4/10 rating).
 
