@@ -5,9 +5,12 @@ The dataset contains 25,000 highly polar movie reviews for both train and test d
 
 
 To download IMDB Movie Review Dataset: 
+
 $ wget http://ai.stanford.edu/~amaas/data/sentiment/aclImdb_v1.tar.gz \
     -O /tmp/imdb.tar.gz
+    
 $ tar -xf /tmp/imdb.tar.gz -C /tmp
 
 To download Glove Embeddings:
+
 $ wget http://nlp.stanford.edu/data/glove.42B.300d.zip
