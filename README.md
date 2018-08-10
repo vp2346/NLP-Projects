@@ -1,4 +1,4 @@
-# Democrat or Republican
+## Democrat or Republican
 Sci-kit learn Naive Bayes and Logistic Regression models to predict whether a person is a Democrat or a Republican depending on their Twitter posts.
 
 ## Sentiment analysis using Neural Networks
